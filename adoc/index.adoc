@@ -1,0 +1,31 @@
+// Document header
+= Monkton, Isle of Thanet Folk History
+A folk history of Monkton and its surroundings as told by the inhabitants past and presetn
+:iconsdir: icons
+:docinfodir: html
+:stylesheet: monkton.css
+include::std_setup.txt[]
+
+[.lead]
+This is work in progress.
+We hope to develop this into a working reference library of the history of the 
+village of Monkton on the Isle of Thanet in Kent and the local area. +
+
+[.normal]
+Welcome to the site.
+
+We welcome your feedback on any part of the content in this web site.
+If you have any comments, questions or requests then please send them to
+New_email_address@gmail.com?.
+
+---
+
+---
+
+
+---
+
+[WARNING]
+====
+Look for the *Further reading* box at the bottom of each page for links to related topics
+====

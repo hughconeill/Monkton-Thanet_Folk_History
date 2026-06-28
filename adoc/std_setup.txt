@@ -1,0 +1,15 @@
+:linkcss:
+:last-update-label: Monkton folk history, Copyright 2026, Page last updated:
+:toc: left
+:toc-title: {doctitle}
+:toclevels: 4
+:icons:
+:table-stripes: all
+:table-caption!:
+:docinfo: shared
+:CommonTerm: Contact for information?
+:include: link:{homepage}[Home]
+:cloudinary_image: https://res.cloudinary.com/engilitydocs/engility01/
+:cloudinary_doc: https://res.cloudinary.com/engilitydocs/image/upload/Documents/
+:cloudinary_vid: https://res.cloudinary.com/engilitydocs/video/upload/Videos/
+:cloudinary_el: https://res.cloudinary.com/engilitydocs/video/upload/eLearning/
