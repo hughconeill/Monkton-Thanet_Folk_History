@@ -8,8 +8,11 @@ include::std_setup.txt[]
 
 [.lead]
 This is work in progress.
+
 We hope to develop this into a working reference library of the history of the 
 village of Monkton on the Isle of Thanet in Kent and the local area. +
+
+== Heading of some sort
 
 [.normal]
 Welcome to the site.
@@ -19,6 +22,12 @@ If you have any comments, questions or requests then please send them to
 New_email_address@gmail.com?.
 
 ---
+
+== test heading
+
+=== Heading 3
+
+==== Heading 4
 
 ---
 
