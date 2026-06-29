@@ -23,13 +23,18 @@ New_email_address@gmail.com?.
 
 ---
 
-== test heading
+== Articles
+
+link:terry_marsh/farming_life/farming_life_home.html[Farming Life by Terry Marsh]
 
 === Heading 3
 
 ==== Heading 4
 
 ---
+.Monkton logo
+image:https://res.cloudinary.com/monkton-thanet/image/upload/Logo_v1_mhgrkk.png[Logo test,45%] +
+
 
 
 ---

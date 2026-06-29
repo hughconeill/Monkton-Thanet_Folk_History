@@ -1,0 +1,13 @@
+= A Farming Life - by Terry Marsh
+
+link:../index.html[home]  / Farming Life
+
+A series of articles that appeared in the Monkton News from September 2024 onwards.
+
+[cols="^.^1,.^9"]
+|===
+
+| image:https://res.cloudinary.com/monkton-thanet/image/upload/Monkton_CoA_qd0u8m.png[width=50px] +
+| link:tm_fl01.html[1 - Getting Started]
+
+|===
