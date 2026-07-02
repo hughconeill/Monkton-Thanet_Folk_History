@@ -1,4 +1,11 @@
 = A Farming Life - 1 - Getting Started
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 1
 
 For those of you who read my bits on my childhood memories, 
 you will know that from an early age I had a very keen interest in farming. 

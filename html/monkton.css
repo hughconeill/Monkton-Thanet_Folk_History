@@ -903,3 +903,13 @@ p, blockquote, dt, td.content, span.alt { font-size: 1em; }
 
 /* Center text */
 .center {text-align: center;}
+
+/* Monkton Additions */
+
+:root {
+  --bg-main: #F4F7F6;       /* Soft canvas */
+  --bg-surface: #CAD2C5;    /* Cards and subtle sections */
+  --text-primary: #2F3E46;  /* High readability text */
+  --brand-primary: #52796F; /* Main identity & headers */
+  --brand-accent: #84A98C;  /* Gentle buttons & links */
+}

@@ -1,4 +1,12 @@
 = A Farming Life 2 - Sheriffs Court Farm
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 2
+
 
 Sheriffs Court Farm is at the bottom of Sheriffs Court Lane. 
 In 1976 at 600 acres (243 hectares) it was a reasonable sized farm. 

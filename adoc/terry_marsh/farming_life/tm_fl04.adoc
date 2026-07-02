@@ -1,4 +1,11 @@
 = A Farming Life 4 - Farming in Monkton in 1976/77
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 4
 
 In the mid 1970's Monkton Court Farm was the largest farm within the Parish boundaries. 
 With a dairy herd, sheep, turkeys plus arable crops, it was a typical large farm at that time. 

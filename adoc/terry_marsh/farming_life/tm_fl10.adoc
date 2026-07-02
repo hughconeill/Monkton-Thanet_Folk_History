@@ -1,4 +1,11 @@
 = A Farming Life 10 - Farming 1979/85 
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 10
 
 During this time, big changes happened on most farms in Thanet. 
 The most visible being the disappearance of the dairy herds and sheep.  

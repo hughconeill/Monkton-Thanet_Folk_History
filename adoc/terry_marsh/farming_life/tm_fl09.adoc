@@ -1,4 +1,11 @@
 = A Farming Life - Farming 1979/85 
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 9
 
 On Sheriffs Court Farm during this period, as with most farms in the country, 
 big changes were coming into effect from being in the Common Market.  

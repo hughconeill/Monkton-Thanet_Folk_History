@@ -1,4 +1,11 @@
-= A Farming Life - Farming 1977/79 
+= A Farming Life 8 - Farming 1977/79
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 8
 
 On Sheriffs Court Farm during this time, Norman Holden, Tom Cully and Ron Fuller were the senior work force, 
 with Bob Hood, Percy Huckstep and Fred Kulzer the main work force, with me at the bottom. +

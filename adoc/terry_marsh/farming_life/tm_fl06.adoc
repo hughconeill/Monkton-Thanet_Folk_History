@@ -1,4 +1,11 @@
 = A Farming Life 6 - Farming 1977/79 
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 6
 
 I was in my early twenties when I started work at Sheriffs Court Farm and although I was working on farms in my teens, 
 everything had changed during the years that I spent in the Army. 

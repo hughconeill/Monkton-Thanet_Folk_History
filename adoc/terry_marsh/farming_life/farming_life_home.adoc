@@ -1,6 +1,11 @@
 = A Farming Life - by Terry Marsh
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
 
-link:../index.html[home]  / Farming Life
+{include} / Farming Life
 
 A series of articles that appeared in the Monkton News from September 2024 onwards.
 

@@ -1,4 +1,11 @@
 = A Farming Life 5 - Farming 1976/77
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 5
 
 Most people of a certain age will remember 1976 as 'the long hot summer’, 
 the first time a hose pipe ban was imposed on most of the country. Nearly all crops suffered, especially combinable crops. 

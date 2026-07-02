@@ -1,4 +1,11 @@
 = 3 Farming in Monkton in 1976/77
+:docinfodir: ../../html
+:stylesheet: ../../monkton.css
+:homepage: ../../index.html
+:iconsdir: ../../icons
+include::../../std_setup.txt[]
+
+{include} / link:farming_life_home.html[Farming Life] / Episode 3
 
 The 1970's was still a time when most of the farms and small holdings grew a much larger variety of crops than today. 
 The bigger farms grew cereal crops, mainly wheat and barley with a few oats, 
